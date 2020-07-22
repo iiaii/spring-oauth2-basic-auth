@@ -1,4 +1,4 @@
-"# spring-oauth2-basic-auth" 
+# spring-oauth2-basic-auth
 
 [스프링 시큐리티 OAuth 2 라이브 코딩](https://www.youtube.com/watch?v=NQM1hghpF0Q&t=1044s)
 
